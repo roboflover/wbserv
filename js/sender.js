@@ -1,4 +1,4 @@
-const ws = new WebSocket('ws://localhost:3000');
+const ws = new WebSocket('ws://77.222.38.116:3000');
 
 let localStream;
 let localConnection;
